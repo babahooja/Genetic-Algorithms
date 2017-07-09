@@ -1,6 +1,10 @@
 .DS_Store
+
+#ignore NPM installed libraries
 /node_modules/*
 
+#ignore trial files used to test the apps
+/Trials/*
 
 
 
